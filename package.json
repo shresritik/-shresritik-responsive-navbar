@@ -15,6 +15,9 @@
     },
     "./dist/style.css": "./dist/style.css"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/shresritik"
+  },
   "sideEffects": false,
   "scripts": {
     "dev": "vite",
