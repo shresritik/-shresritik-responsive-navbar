@@ -1,8 +1,9 @@
 {
   "name": "@shresritik/responsive-navbar",
   "author": "shresritik",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "type": "module",
+  "license": "MIT",
   "files": [
     "lib"
   ],
