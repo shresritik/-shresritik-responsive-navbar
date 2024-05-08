@@ -1,12 +1,15 @@
 {
   "name": "@shresritik/responsive-navbar",
   "author": "shresritik",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "type": "module",
   "license": "MIT",
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "./dist/responsive-navbar.umd.cjs",
   "module": "./dist/responsive-navbar.js",
   "exports": {
