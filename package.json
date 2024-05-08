@@ -1,9 +1,10 @@
 {
   "name": "@shresritik/responsive-navbar",
-  "version": "0.5.0",
+  "author": "shresritik",
+  "version": "0.6.2",
   "type": "module",
   "files": [
-    "dist"
+    "lib"
   ],
   "main": "./dist/responsive-navbar.umd.cjs",
   "module": "./dist/responsive-navbar.js",
@@ -22,6 +23,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@shresritik/responsive-navbar": "^0.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0",
