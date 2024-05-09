@@ -1,7 +1,7 @@
 {
   "name": "@shresritik/responsive-navbar",
   "author": "shresritik",
-  "version": "0.6.7",
+  "version": "0.7.0",
   "repository": "https://github.com/shresritik/responsive-navbar.git",
   "type": "module",
   "license": "MIT",
@@ -13,6 +13,7 @@
   },
   "main": "./dist/responsive-navbar.umd.cjs",
   "module": "./dist/responsive-navbar.js",
+  "types": "./dist/responsive-navbar.d.ts",
   "exports": {
     ".": {
       "import": "./dist/responsive-navbar.js",
